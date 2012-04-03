@@ -4,6 +4,8 @@ Tint your images in ImpactJS on the client side. Uses the 'multiply' blending mo
 
 ![example](https://github.com/deakster/impact-imageblender/raw/master/example.png)
 
+(example sprite from http://opengameart.org/content/zombies-skeletons)
+
 Usage
 -----
 
