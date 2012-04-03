@@ -2,6 +2,8 @@ Info
 ----
 Tint your images in ImpactJS on the client side. Uses the 'multiply' blending mode to colourize each pixel.
 
+![example](https://github.com/deakster/impact-imageblender/raw/master/example.png)
+
 Usage
 -----
 
