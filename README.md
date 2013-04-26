@@ -2,7 +2,7 @@ Info
 ----
 Tint your images in ImpactJS on the client side. Uses the 'multiply' blending mode to colourize each pixel.
 
-![example](/deakster/impact-imageblender/raw/master/example.png)
+![Example](https://raw.github.com/deakster/impact-imageblender/master/example.png)
 
 (example sprite from http://opengameart.org/content/zombies-skeletons)
 
