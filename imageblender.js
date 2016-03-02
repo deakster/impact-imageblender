@@ -1,7 +1,7 @@
 // Image Blender, v0.1 - https://github.com/deakster/impact-imageblender
 
 ig.module(
-	'game.imageblender'
+    'game.imageblender'
 ).requires(
     'impact.image'
 ).defines(function () {
